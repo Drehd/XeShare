@@ -28,3 +28,4 @@ C:\Users\Tyler\Documents\Development\xeshare\XeShare\XeShare-Win64\XeShare-Win64
 C:\Users\Tyler\Documents\Development\xeshare\XeShare\XeShare-Win64\XeShare-Win64\obj\Debug\XeShare-Win64.csproj.CopyComplete
 C:\Users\Tyler\Documents\Development\xeshare\XeShare\XeShare-Win64\XeShare-Win64\obj\Debug\XeShare-Win64.exe
 C:\Users\Tyler\Documents\Development\xeshare\XeShare\XeShare-Win64\XeShare-Win64\obj\Debug\XeShare-Win64.pdb
+C:\Users\Tyler\Documents\Development\xeshare\XeShare\XeShare-Win64\XeShare-Win64\obj\Debug\XeShare-Win64.csprojAssemblyReference.cache
